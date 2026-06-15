@@ -8,7 +8,7 @@ Building custom high-load architecture, ERP systems, and AI automation.
 
 
 
-* **Tech:** Next.js • React • TypeScript • Python • Go • Node.js • PostgreSQL • Docker
+* **Tech:** Next.js • React • TypeScript • Python • Go • Rust • Node.js • PostgreSQL • Docker
 
 * **Specs:** SaaS/ERP Architecture, LLM Integrations, Autonomous AI Agents
 
