@@ -1,7 +1,6 @@
 # Dmitry Pan
 
-**Product Engineer & Full-Stack Developer**
-
+**Product Engineer & Full-Stack Developer**<br>
 Engineering custom high-load architectures, robust ERP systems, and autonomous AI automation built for performance and business scale.
 
 ---
