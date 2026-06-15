@@ -15,4 +15,4 @@ Engineering custom high-load architectures, robust ERP systems,<br> and autonomo
 **Core Expertise:** Scalable SaaS/ERP Architecture, Autonomous AI Agents, Data Pipelines
 
 
-🌐 [dpan.dev](https://dpan.dev) • 💬 Telegram: [@panchesko](https://t.me/panchesko?text=%0AHello!%20I'm%20writing%20to%20you%20from%20GitHub%20dpan4!)
+🌐 [dpan.dev]([https://dpan.dev](https://dpan.dev/?utm_source=github)) • 💬 Telegram: [@panchesko](https://t.me/panchesko?text=%0AHello!%20I'm%20writing%20to%20you%20from%20GitHub%20dpan4!)
