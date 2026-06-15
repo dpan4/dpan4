@@ -14,4 +14,4 @@ Building custom high-load architecture, ERP systems, and AI automation.
 
 
 
-🌐 [dpan.dev](https://dpan.dev) • 💬 Telegram: https://t.me/panchesko?text=%0AHello!%20I'm%20writing%20to%20you%20from%20GitHub%20dpan4!
+🌐 [dpan.dev](https://dpan.dev) • 💬 Telegram: (https://t.me/panchesko?text=%0AHello!%20I'm%20writing%20to%20you%20from%20GitHub%20dpan4!)
