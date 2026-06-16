@@ -7,7 +7,7 @@ Engineering custom high-load architectures, robust ERP systems,<br> and autonomo
 
 * **Frontend & UX/UI:** Next.js • React • TypeScript • Tailwind CSS • Figma • Photoshop
 * **Backend & Data:** Go • Rust • Python • Node.js • PostgreSQL • Prisma ORM • MariaDB
-* **Infra & DevOps:** Docker • CI/CD • Nginx • Linux • PM2 • Self-hosted Analytics (Matomo)
+* **Infra & DevOps:** Docker • CI/CD • Nginx • Linux • PM2 • Self-hosted Analytics
 * **AI & Automation:** LLM Integrations • Playwright • Telethon • Telegram Bots • SEO Automation
 
 ---
